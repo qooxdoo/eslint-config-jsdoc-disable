@@ -5,7 +5,7 @@ a disable configuration for jsdoc
 ## Install
 
 ```
-$ npm install --save @qooxdoo/eslint-config-jsdoc
+$ npm install --save @qooxdoo/eslint-config-jsdoc-disable
 ```
 
 
@@ -13,7 +13,7 @@ $ npm install --save @qooxdoo/eslint-config-jsdoc
 
 ```json
 {
-	"extends": "@qooxdoo/eslint-jsdoc-config"
+	"extends": "@qooxdoo/jsdoc-disable"
 }
 ```
 
