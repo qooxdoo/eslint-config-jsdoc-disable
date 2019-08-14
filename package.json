@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "a disble configuration for jsdoc",
   "license": "MIT",
-  "homepage": "https://github.com/qooxdoo/eslint-config-jsdoc",
+  "homepage": "https://github.com/qooxdoo/eslint-config-jsdoc-disable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qooxdoo/eslint-config-jsdoc.git"
+    "url": "https://github.com/qooxdoo/eslint-config-jsdoc-disable.git"
   },
   "author": {
     "name": "Henner Kollmann",
