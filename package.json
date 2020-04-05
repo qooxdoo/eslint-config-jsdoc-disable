@@ -1,6 +1,6 @@
 {
   "name": "@qooxdoo/eslint-config-jsdoc-disable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a disble configuration for jsdoc",
   "license": "MIT",
   "homepage": "https://github.com/qooxdoo/eslint-config-jsdoc-disable",
