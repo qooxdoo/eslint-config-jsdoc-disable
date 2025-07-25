@@ -6,7 +6,7 @@
   "homepage": "https://github.com/qooxdoo/eslint-config-jsdoc-disable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qooxdoo/eslint-config-jsdoc-disable.git"
+    "url": "git+https://github.com/qooxdoo/eslint-config-jsdoc-disable.git"
   },
   "author": {
     "name": "Henner Kollmann",
