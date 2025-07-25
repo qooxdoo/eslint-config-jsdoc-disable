@@ -1,6 +1,6 @@
 {
   "name": "@qooxdoo/eslint-config-jsdoc-disable",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "a disble configuration for jsdoc",
   "license": "MIT",
   "homepage": "https://github.com/qooxdoo/eslint-config-jsdoc-disable",
@@ -13,7 +13,7 @@
     "email": "Henner.Kollmann@gmx.de"
   },
   "engines": {
-    "node": ">=10.0"
+    "node": ">=18.18.0"
   },
   "scripts": {},
   "files": [
@@ -24,8 +24,8 @@
     "qooxdoo"
   ],
   "dependencies": {
-    "eslint": "^6.1.0",
-    "eslint-plugin-jsdoc": "^15.8.0"
+    "eslint": "^9.0.0",
+    "eslint-plugin-jsdoc": "^50.0.0"
   },
   "devDependencies": {}
 }
