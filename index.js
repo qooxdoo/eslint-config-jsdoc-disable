@@ -1,12 +1,6 @@
 "use strict";
 
-const jsdoc = require('eslint-plugin-jsdoc');
-
 module.exports = [
-    {
-        plugins: {
-            jsdoc
-        },
         rules: {
             'jsdoc/check-alignment': 'off',
             'jsdoc/check-examples': 'off',
