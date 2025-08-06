@@ -1,6 +1,7 @@
 "use strict";
 
 module.exports = [
+  {
         rules: {
             'jsdoc/check-alignment': 'off',
             'jsdoc/check-examples': 'off',
@@ -29,4 +30,5 @@ module.exports = [
             'jsdoc/require-returns-type': 'off',
             'jsdoc/valid-types': 'off'
         }
+   }
 ];
