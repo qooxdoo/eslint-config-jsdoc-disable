@@ -29,5 +29,4 @@ module.exports = [
             'jsdoc/require-returns-type': 'off',
             'jsdoc/valid-types': 'off'
         }
-    }
 ];
